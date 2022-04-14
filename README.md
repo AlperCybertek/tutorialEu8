@@ -1,3 +1,3 @@
 # tutorialEu8
 
-This repo is created for educaional purpose for the student of Cydeo
+This repo is created for educational purpose for the student of Cydeo.
